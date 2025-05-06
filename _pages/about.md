@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 <div style="width: 100%; text-align: center; margin: 2em 0;">
-  <img src="/images/vfm.png" alt="VFM pipeline diagram" style="width: 100%; max-width: 100%; height: auto;" />
+  <img src="/images/vfm_context.png" alt="VFM pipeline diagram" style="width: 100%; max-width: 100%; height: auto;" />
   <p style="font-style: italic; font-size: 0.9em;">Figure: A vision foundation model pipeline.</p>
 </div>
 <p>
